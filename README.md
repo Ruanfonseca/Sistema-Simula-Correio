@@ -1,4 +1,4 @@
-# Sistema de simulação de um funcionamento de um correio eletrônico
+# Simulação de um funcionamento de um correio eletrônico com JavaMail
 Utilizando o Mailhog para envio de email 
 
 O sistema consiste em simulação de envio de mensagens por email utilizando o mailhog como servidor smtp.Com a API java mail o sistema simula o envio e recebimento de emails.
